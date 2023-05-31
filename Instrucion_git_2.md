@@ -134,4 +134,4 @@
 
 Чтобы удалить ранее созданную ветку необходимо ввести команду:
 
-git branch -d "branch_name"
+    git branch -d "branch_name"
