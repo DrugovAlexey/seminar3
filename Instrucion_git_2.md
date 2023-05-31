@@ -109,10 +109,12 @@
 
     git branch --oneline --all --graph
 
-text для конфликта
+### Создание новой ветки
 
+Чтобы создать новую ветку необходимо ввести команду:
 
-
+    git branch newbranch_name
+    
 
 
 
