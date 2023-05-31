@@ -124,4 +124,6 @@
 
     git checkout master
 
+### Слияние веток
+
 
