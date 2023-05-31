@@ -105,6 +105,7 @@
     git branch --oneline --all
 
 Или же можно выводить полный граф коммитов с сортировкой по дате в краткой форме:
+    git branch --oneline --all --graph
 
 
 
