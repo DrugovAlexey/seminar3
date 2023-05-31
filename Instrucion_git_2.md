@@ -114,5 +114,12 @@
 
     git branch "branch_name"
 
+### Переключение между ветками
+
+git checkout "branch_name"
+
+Чтобы вернуться в оснновную ветку необходимо ввести команду:
+
+    git checkout master
 
 
